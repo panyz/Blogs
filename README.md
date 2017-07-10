@@ -4,16 +4,18 @@
 
 - [Android](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
     
-    - [关于Fragment的一些笔记](https://github.com/panyz/Blogs/issues/4)
+    - [【自定义View】仿广东移动App流量条控件 ](https://github.com/panyz/Blogs/issues/18)
     - [MPAndroidChart的使用技巧](https://github.com/panyz/Blogs/issues/5)
     - [一个案例教你简单地玩转ViewPager（一）之带指示点的引导页](https://github.com/panyz/Blogs/issues/1)
     - [一个案例教你简单地玩转ViewPager（二）之ViewPaper+TabLayout+Fragment顶部标签界面滑动](https://github.com/panyz/Blogs/issues/2)
     - [一个案例教你简单地玩转ViewPager（三）之带指示点的图片自动轮播效果](https://github.com/panyz/Blogs/issues/3)
+    - [关于Fragment的一些笔记](https://github.com/panyz/Blogs/issues/4)
     - [关于Android7.0系统使用webview遇到的一个问题(二级跳转后界面空白)](https://github.com/panyz/Blogs/issues/6)
 
 - [阅读笔记](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0)
 
-    - [《Android开发进阶》第1章 Android的构成基石-四大组件](https://github.com/panyz/Blogs/issues/7)
+    - [《Android开发艺术探索》思维导图笔记](https://github.com/panyz/Blogs/issues/17)
+    - [《Android开发进阶》第1章 Android的构成基石-四大组件](https://github.com/panyz/Blogs/issues/7)
     - [《Android群英传》第3章 Android控件架构与自定义控件详解](https://github.com/panyz/Blogs/issues/8)
     - [《Android群英传》第5章 Android Scroll分析](https://github.com/panyz/Blogs/issues/9)
     - [《Android源码设计模式解析与实战》第1章 面向对象的六大原则](https://github.com/panyz/Blogs/issues/10)
