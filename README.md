@@ -12,8 +12,8 @@
     - [关于Android7.0系统使用webview遇到的一个问题(二级跳转后界面空白)](https://github.com/panyz/Blogs/issues/6)
 
 - [阅读笔记](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0)
-    - [《Android开发艺术探索》思维导图笔记](https://github.com/panyz/Blogs/issues/7)
-    - [《Android开发进阶》第1章 Android的构成基石-四大组件](https://github.com/panyz/Blogs/issues/17)
+    - [《Android开发艺术探索》思维导图笔记](https://github.com/panyz/Blogs/issues/17)
+    - [《Android开发进阶》第1章 Android的构成基石-四大组件](https://github.com/panyz/Blogs/issues/7)
     - [《Android群英传》第3章 Android控件架构与自定义控件详解](https://github.com/panyz/Blogs/issues/8)
     - [《Android群英传》第5章 Android Scroll分析](https://github.com/panyz/Blogs/issues/9)
     - [《Android源码设计模式解析与实战》第1章 面向对象的六大原则](https://github.com/panyz/Blogs/issues/10)
