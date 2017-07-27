@@ -3,6 +3,7 @@
 > [传送门](https://github.com/panyz/Blogs/issues)
 
 - [Android](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
+    - [通过代码封装搭建合适的MVP开发架构模式 ](https://github.com/panyz/Blogs/issues/19)
     - [【自定义View】仿广东移动App流量条控件 ](https://github.com/panyz/Blogs/issues/18)
     - [MPAndroidChart的使用技巧](https://github.com/panyz/Blogs/issues/5)
     - [一个案例教你简单地玩转ViewPager（一）之带指示点的引导页](https://github.com/panyz/Blogs/issues/1)
