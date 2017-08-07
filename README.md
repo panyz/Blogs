@@ -3,6 +3,7 @@
 > [传送门](https://github.com/panyz/Blogs/issues)
 
 - [Android](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
+    - [基于OkHttp封装的网络请求框架结合MVP架构模式使用 ](https://github.com/panyz/Blogs/issues/20)
     - [通过代码封装搭建合适的MVP开发架构模式 ](https://github.com/panyz/Blogs/issues/19)
     - [【自定义View】仿广东移动App流量条控件 ](https://github.com/panyz/Blogs/issues/18)
     - [MPAndroidChart的使用技巧](https://github.com/panyz/Blogs/issues/5)
@@ -11,6 +12,7 @@
     - [一个案例教你简单地玩转ViewPager（三）之带指示点的图片自动轮播效果](https://github.com/panyz/Blogs/issues/3)
     - [关于Fragment的一些笔记](https://github.com/panyz/Blogs/issues/4)
     - [关于Android7.0系统使用webview遇到的一个问题(二级跳转后界面空白)](https://github.com/panyz/Blogs/issues/6)
+
 
 - [阅读笔记](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0)
     - [《Android开发艺术探索》思维导图笔记](https://github.com/panyz/Blogs/issues/17)
