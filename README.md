@@ -30,4 +30,4 @@
 
 - [阅读](https://github.com/panyz/Blogs/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%9A%8F%E7%AC%94)
     - [关于阅读技术性书籍-谈谈我的一些做法](https://github.com/panyz/Blogs/issues/14)
-    - [读懂一本书，难吗？](https://github.com/panyz/Blogs/issues/14)
+    - [读懂一本书，难吗？](https://github.com/panyz/Blogs/issues/21)
